@@ -55,7 +55,7 @@ token()
 
 .. code-block:: php
 
-  public function token () : string
+  public static function token () : string
 
 
 
@@ -65,7 +65,7 @@ check()
 
 .. code-block:: php
 
-  public function check (
+  public static function check (
       string $token
   ) : bool
 
