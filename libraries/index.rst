@@ -15,5 +15,6 @@
   password
   ssh2
   validate
+  validator
 
 
